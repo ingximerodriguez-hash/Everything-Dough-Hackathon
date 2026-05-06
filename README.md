@@ -2,7 +2,7 @@
 
 
 # Live Demo
-everything-dough-mockup-hackathon.vercel.app
+[everything-dough-mockup-hackathon.vercel.app](https://chatgpt.com/canvas/shared/69fa73e26b00819184f317f934ec9951)
 
 
 ### Challenge  Statement

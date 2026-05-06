@@ -168,7 +168,7 @@ This document helped identify the real workflow problems: manual administrative 
 
 3. CRM and Lead Scoring Research
 
-CRM lead scoring was used as a practical alternative . HubSpot’s lead scoring documentation explains that CRM scores can help prioritize contacts, companies, and deals based on record properties or actions, which supports the decision to use the existing CRM lead score instead of training a custom model. :contentReference[oaicite:2]{index=2}
+CRM lead scoring was used as a practical alternative . HubSpot’s lead scoring documentation explains that CRM scores can help prioritize contacts, companies, and deals based on record properties or actions, which supports the decision to use the existing CRM lead score instead of training a custom model.
 
 4. Automation and Chatbot Research
 
